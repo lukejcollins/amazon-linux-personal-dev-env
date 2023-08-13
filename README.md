@@ -1,4 +1,4 @@
-[![Docker](https://img.shields.io/badge/Docker-Containerisation-2496ED?logo=docker&logoColor=white&labelColor=2496ED&color=white)](https://www.docker.com/) ![Deployment](https://github.com/lukejcollins/techronomicon/actions/workflows/pr-build-push.yml/badge.svg) ![Deployment](https://github.com/lukejcollins/techronomicon/actions/workflows/nightly-build.yml/badge.svg)
+[![Docker](https://img.shields.io/badge/Docker-Containerisation-2496ED?logo=docker&logoColor=white&labelColor=2496ED&color=white)](https://www.docker.com/) ![Deployment](https://github.com/lukejcollins/amazon-linux-personal-dev-env/actions/workflows/pr-build-push.yml/badge.svg) ![Deployment](https://github.com/lukejcollins/amazon-linux-personal-dev-env/actions/workflows/nightly-build.yml/badge.svg)
 
 # Amazon Linux DevEnv Docker Image
 
