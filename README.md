@@ -1,3 +1,5 @@
+[![Docker](https://img.shields.io/badge/Docker-Containerisation-2496ED?logo=docker&logoColor=white&labelColor=2496ED&color=white)](https://www.docker.com/) ![Deployment](https://github.com/lukejcollins/amazon-linux-personal-dev-env/actions/workflows/pr-build-push.yml/badge.svg) ![Deployment](https://github.com/lukejcollins/amazon-linux-personal-dev-env/actions/workflows/nightly-build.yml/badge.svg)
+
 # Amazon Linux DevEnv Docker Image
 
 This repository houses a `Dockerfile` meticulously designed to cater to my specific development requirements. Utilizing the latest Amazon Linux image as a foundation, it integrates a diverse array of tools like Neovim, git, clang, zsh, nodejs, and many more.
