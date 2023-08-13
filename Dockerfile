@@ -13,9 +13,6 @@ RUN git clone https://github.com/neovim/neovim.git && \
     make CMAKE_BUILD_TYPE=RelWithDebInfo && \
     make install
 
-# Switch to the non-root user
-USER lukecollins
-
 # Set the working directory
 WORKDIR /home/lukecollins
 
