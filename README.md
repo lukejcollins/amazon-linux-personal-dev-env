@@ -2,7 +2,7 @@
 
 # Amazon Linux DevEnv Docker Image
 
-This repository houses a `Dockerfile` meticulously designed to cater to my specific development requirements. Utilizing the latest Amazon Linux image as a foundation, it integrates a diverse array of tools like Neovim, git, clang, zsh, nodejs, and many more.
+This repository houses a `Dockerfile` meticulously designed to cater to my specific development requirements. Utilising the latest Amazon Linux image as a foundation, it integrates a diverse array of tools like Neovim, git, clang, zsh, nodejs, and many more.
 
 One of the standout features of this setup is its versatility; it serves as an adaptable base for any project I intend to containerise where the environment is based on Amazon Linux. A significant advantage is the ability to mount both my home directory and binary path. This facilitates seamless access to all host-side dependencies and configurations right from within the Docker container (e.g. formatters, linters etc.)
 
@@ -27,7 +27,7 @@ Should you wish to adapt this base for your workflow:
 
 1. Make the repository your own with a fork.
 2. Within the Dockerfile, tweak hardcoded elements like the username and introduce any other requisite tools.
-3. Follow the deployment steps to construct and utilize your Docker image.
+3. Follow the deployment steps to construct and utilise your Docker image.
 
 ## Community Input:
 
